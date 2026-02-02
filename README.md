@@ -43,7 +43,7 @@
 
 - **HTML5** – Game structure  
 - **CSS3** – Neon UI & animations  
-- **JavaScript (Vanilla)** – Game logic  
+- **TypeScript ** – Game logic  
 - **Netlify** – Hosting & deployment  
 
 ---
