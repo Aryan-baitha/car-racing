@@ -74,6 +74,6 @@
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/your-username/turbo-drift.git
+git clone https://github.com/Aryan-baitha/turbo-drift.git
 cd turbo-drift
 open index.html
